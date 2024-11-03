@@ -408,7 +408,7 @@ align-items: center;
 }
  @keyframes photo {
   0%{
-    background-image: url(منظر2.jfif);
+    background-image: url(متحف.jfif);
   }
 50%{
 background-image: url(التعديل.jfif);
